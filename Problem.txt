@@ -1,0 +1,8 @@
+There are n gas stations positioned along a circular road. 
+Each has a limited supply of gas. 
+You can only drive clockwise around the road. 
+You start with zero gas. 
+Knowing how much gas you need to get from each gas station to the next and 
+how much gas you can get at each station, 
+design an algorithm to find the gas station you need to start at to get all the way around the circle.
+
